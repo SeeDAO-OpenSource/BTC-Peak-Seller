@@ -1,8 +1,0 @@
-[2024-12-19 22:34:28,071] INFO: 启动 Selenium for Edge...
-[2024-12-19 22:34:28,072] INFO: ====== WebDriver manager ======
-[2024-12-19 22:34:30,712] INFO: Get LATEST edgedriver version for Edge 131.0.2903
-[2024-12-19 22:34:31,472] INFO: Get LATEST edgedriver version for Edge 131.0.2903
-[2024-12-19 22:34:32,468] INFO: Driver [C:\Users\陈亮\.wdm\drivers\edgedriver\win64\131.0.2903.99\msedgedriver.exe] found in cache
-[2024-12-19 22:34:33,498] INFO: 打开页面...
-[2024-12-19 22:34:38,319] INFO: 页面标题: 比特币 Ahr999 指标 | CoinGlass
-[2024-12-19 22:34:38,357] INFO: 抓取结果: 日期=2024/12/19, AHR999=1.53131344
