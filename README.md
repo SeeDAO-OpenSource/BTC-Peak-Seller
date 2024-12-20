@@ -9,9 +9,9 @@
 自动化数据爬取：使用 Selenium 获取 AHR999 指标数据。  
 数据存储：将爬取的数据保存到 CSV 文件中，便于后续分析。  
 日志记录：记录错误和操作状态，便于调试。  
-无头模式：在后台运行，无需浏览器界面
-定时获取：每日早上8点爬取数据
-信息发送：定时发送到Telegram群内
+无头模式：在后台运行，无需浏览器界面  
+定时获取：每日早上8点爬取数据  
+信息发送：定时发送到Telegram群内  
 # 所需环境：
 Python 3.8 或更高版本  
 必需的Python包：schdule requests webdriver webdriver_manager csv os logging  
