@@ -1,0 +1,67 @@
+[2024-12-23 08:36:37,126] INFO: 启动 Selenium for Edge...
+[2024-12-23 08:36:37,128] INFO: ====== WebDriver manager ======
+[2024-12-23 08:36:39,838] INFO: Get LATEST edgedriver version for Edge 131.0.2903
+[2024-12-23 08:36:40,080] INFO: Get LATEST edgedriver version for Edge 131.0.2903
+[2024-12-23 08:36:40,301] INFO: Driver [C:\Users\陈亮\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
+[2024-12-23 08:36:41,401] INFO: 打开页面...
+[2024-12-23 08:36:43,047] INFO: 页面标题: 比特币 Ahr999 指标 | CoinGlass
+[2024-12-23 08:36:43,059] ERROR: 发生错误: Message: no such element: Unable to locate element: {"method":"css selector","selector":"tr.ant-table-row.ant-table-row-level-0"}
+  (Session info: MicrosoftEdge=131.0.2903.112); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	(No symbol) [0x00007FF6D9946B05]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6D9C6F464+1437348]
+	sqlite3_dbdata_init [0x00007FF6D9D12D96+643174]
+	(No symbol) [0x00007FF6D986C9DB]
+	(No symbol) [0x00007FF6D986CAE3]
+	(No symbol) [0x00007FF6D98A92F7]
+	(No symbol) [0x00007FF6D988C1DF]
+	(No symbol) [0x00007FF6D9863437]
+	(No symbol) [0x00007FF6D98A6BFF]
+	(No symbol) [0x00007FF6D988BE03]
+	(No symbol) [0x00007FF6D9862984]
+	(No symbol) [0x00007FF6D9861E30]
+	(No symbol) [0x00007FF6D9862571]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6D9C1BAF4+1094964]
+	(No symbol) [0x00007FF6D99832B8]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6D9C1AF33+1091955]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6D9C1AA99+1090777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6D9A20CA1+461569]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6D9A1C9C4+444452]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6D9A1CB09+444777]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6D9A12186+401382]
+	BaseThreadInitThunk [0x00007FF94BA07374+20]
+	RtlUserThreadStart [0x00007FF94BCFCC91+33]
+
+[2024-12-23 08:36:43] ERROR: 鏈兘鎶撳彇 AHR999 鏁版嵁
+[2024-12-23 08:37:13,069] INFO: 启动 Selenium for Edge...
+[2024-12-23 08:37:13,069] INFO: ====== WebDriver manager ======
+[2024-12-23 08:37:15,773] INFO: Get LATEST edgedriver version for Edge 131.0.2903
+[2024-12-23 08:37:15,983] INFO: Get LATEST edgedriver version for Edge 131.0.2903
+[2024-12-23 08:37:16,191] INFO: Driver [C:\Users\陈亮\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
+[2024-12-23 08:37:18,773] INFO: 打开页面...
+[2024-12-23 08:37:20,520] INFO: 页面标题: 比特币 Ahr999 指标 | CoinGlass
+[2024-12-23 08:37:20,560] INFO: 抓取结果: 日期=2024/12/23, AHR999=1.36445367
+[2024-12-23 08:37:53,893] INFO: 启动 Selenium for Edge...
+[2024-12-23 08:37:53,893] INFO: ====== WebDriver manager ======
+[2024-12-23 08:37:56,670] INFO: Get LATEST edgedriver version for Edge 131.0.2903
+[2024-12-23 08:37:56,888] INFO: Get LATEST edgedriver version for Edge 131.0.2903
+[2024-12-23 08:37:57,099] INFO: Driver [C:\Users\陈亮\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
+[2024-12-23 08:37:59,644] INFO: 打开页面...
+[2024-12-23 08:38:01,476] INFO: 页面标题: 比特币 Ahr999 指标 | CoinGlass
+[2024-12-23 08:38:01,516] INFO: 抓取结果: 日期=2024/12/23, AHR999=1.36445367
+[2024-12-23 08:38:44,994] INFO: 启动 Selenium for Edge...
+[2024-12-23 08:38:44,994] INFO: ====== WebDriver manager ======
+[2024-12-23 08:38:47,534] INFO: Get LATEST edgedriver version for Edge 131.0.2903
+[2024-12-23 08:38:47,747] INFO: Get LATEST edgedriver version for Edge 131.0.2903
+[2024-12-23 08:38:47,961] INFO: Driver [C:\Users\陈亮\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
+[2024-12-23 08:38:48,986] INFO: 打开页面...
+[2024-12-23 08:38:51,367] INFO: 页面标题: 比特币 Ahr999 指标 | CoinGlass
+[2024-12-23 08:38:51,406] INFO: 抓取结果: 日期=2024/12/23, AHR999=1.36445367
+[2024-12-23 08:39:24,769] INFO: 启动 Selenium for Edge...
+[2024-12-23 08:39:24,769] INFO: ====== WebDriver manager ======
+[2024-12-23 08:39:27,319] INFO: Get LATEST edgedriver version for Edge 131.0.2903
+[2024-12-23 08:39:27,530] INFO: Get LATEST edgedriver version for Edge 131.0.2903
+[2024-12-23 08:39:27,739] INFO: Driver [C:\Users\陈亮\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
+[2024-12-23 08:39:28,770] INFO: 打开页面...
+[2024-12-23 08:39:30,786] INFO: 页面标题: 比特币 Ahr999 指标 | CoinGlass
+[2024-12-23 08:39:30,828] INFO: 抓取结果: 日期=2024/12/23, AHR999=1.36445367
