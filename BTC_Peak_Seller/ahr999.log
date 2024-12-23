@@ -1,11 +1,11 @@
-[2024-12-23 08:36:37,126] INFO: Æô¶¯ Selenium for Edge...
+[2024-12-23 08:36:37,126] INFO: å¯åŠ¨ Selenium for Edge...
 [2024-12-23 08:36:37,128] INFO: ====== WebDriver manager ======
 [2024-12-23 08:36:39,838] INFO: Get LATEST edgedriver version for Edge 131.0.2903
 [2024-12-23 08:36:40,080] INFO: Get LATEST edgedriver version for Edge 131.0.2903
-[2024-12-23 08:36:40,301] INFO: Driver [C:\Users\³ÂÁÁ\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
-[2024-12-23 08:36:41,401] INFO: ´ò¿ªÒ³Ãæ...
-[2024-12-23 08:36:43,047] INFO: Ò³Ãæ±êÌâ: ±ÈÌØ±Ò Ahr999 Ö¸±ê | CoinGlass
-[2024-12-23 08:36:43,059] ERROR: ·¢Éú´íÎó: Message: no such element: Unable to locate element: {"method":"css selector","selector":"tr.ant-table-row.ant-table-row-level-0"}
+[2024-12-23 08:36:40,301] INFO: Driver [C:\Users\\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
+[2024-12-23 08:36:41,401] INFO: æ‰“å¼€é¡µé¢...
+[2024-12-23 08:36:43,047] INFO: é¡µé¢æ ‡é¢˜: æ¯”ç‰¹å¸ Ahr999 æŒ‡æ ‡ | CoinGlass
+[2024-12-23 08:36:43,059] ERROR: å‘ç”Ÿé”™è¯¯: Message: no such element: Unable to locate element: {"method":"css selector","selector":"tr.ant-table-row.ant-table-row-level-0"}
   (Session info: MicrosoftEdge=131.0.2903.112); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
 	(No symbol) [0x00007FF6D9946B05]
@@ -32,36 +32,36 @@ Stacktrace:
 	BaseThreadInitThunk [0x00007FF94BA07374+20]
 	RtlUserThreadStart [0x00007FF94BCFCC91+33]
 
-[2024-12-23 08:36:43] ERROR: æœªèƒ½æŠ“å– AHR999 æ•°æ®
-[2024-12-23 08:37:13,069] INFO: Æô¶¯ Selenium for Edge...
+[2024-12-23 08:36:43] ERROR: éˆî‡å…˜é¶æ’³å½‡ AHR999 éç‰ˆåµ
+[2024-12-23 08:37:13,069] INFO: å¯åŠ¨ Selenium for Edge...
 [2024-12-23 08:37:13,069] INFO: ====== WebDriver manager ======
 [2024-12-23 08:37:15,773] INFO: Get LATEST edgedriver version for Edge 131.0.2903
 [2024-12-23 08:37:15,983] INFO: Get LATEST edgedriver version for Edge 131.0.2903
-[2024-12-23 08:37:16,191] INFO: Driver [C:\Users\³ÂÁÁ\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
-[2024-12-23 08:37:18,773] INFO: ´ò¿ªÒ³Ãæ...
-[2024-12-23 08:37:20,520] INFO: Ò³Ãæ±êÌâ: ±ÈÌØ±Ò Ahr999 Ö¸±ê | CoinGlass
-[2024-12-23 08:37:20,560] INFO: ×¥È¡½á¹û: ÈÕÆÚ=2024/12/23, AHR999=1.36445367
-[2024-12-23 08:37:53,893] INFO: Æô¶¯ Selenium for Edge...
+[2024-12-23 08:37:16,191] INFO: Driver [C:\Users\\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
+[2024-12-23 08:37:18,773] INFO: æ‰“å¼€é¡µé¢...
+[2024-12-23 08:37:20,520] INFO: é¡µé¢æ ‡é¢˜: æ¯”ç‰¹å¸ Ahr999 æŒ‡æ ‡ | CoinGlass
+[2024-12-23 08:37:20,560] INFO: æŠ“å–ç»“æœ: æ—¥æœŸ=2024/12/23, AHR999=1.36445367
+[2024-12-23 08:37:53,893] INFO: å¯åŠ¨ Selenium for Edge...
 [2024-12-23 08:37:53,893] INFO: ====== WebDriver manager ======
 [2024-12-23 08:37:56,670] INFO: Get LATEST edgedriver version for Edge 131.0.2903
 [2024-12-23 08:37:56,888] INFO: Get LATEST edgedriver version for Edge 131.0.2903
-[2024-12-23 08:37:57,099] INFO: Driver [C:\Users\³ÂÁÁ\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
-[2024-12-23 08:37:59,644] INFO: ´ò¿ªÒ³Ãæ...
-[2024-12-23 08:38:01,476] INFO: Ò³Ãæ±êÌâ: ±ÈÌØ±Ò Ahr999 Ö¸±ê | CoinGlass
-[2024-12-23 08:38:01,516] INFO: ×¥È¡½á¹û: ÈÕÆÚ=2024/12/23, AHR999=1.36445367
-[2024-12-23 08:38:44,994] INFO: Æô¶¯ Selenium for Edge...
+[2024-12-23 08:37:57,099] INFO: Driver [C:\Users\\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
+[2024-12-23 08:37:59,644] INFO: æ‰“å¼€é¡µé¢...
+[2024-12-23 08:38:01,476] INFO: é¡µé¢æ ‡é¢˜: æ¯”ç‰¹å¸ Ahr999 æŒ‡æ ‡ | CoinGlass
+[2024-12-23 08:38:01,516] INFO: æŠ“å–ç»“æœ: æ—¥æœŸ=2024/12/23, AHR999=1.36445367
+[2024-12-23 08:38:44,994] INFO: å¯åŠ¨ Selenium for Edge...
 [2024-12-23 08:38:44,994] INFO: ====== WebDriver manager ======
 [2024-12-23 08:38:47,534] INFO: Get LATEST edgedriver version for Edge 131.0.2903
 [2024-12-23 08:38:47,747] INFO: Get LATEST edgedriver version for Edge 131.0.2903
-[2024-12-23 08:38:47,961] INFO: Driver [C:\Users\³ÂÁÁ\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
-[2024-12-23 08:38:48,986] INFO: ´ò¿ªÒ³Ãæ...
-[2024-12-23 08:38:51,367] INFO: Ò³Ãæ±êÌâ: ±ÈÌØ±Ò Ahr999 Ö¸±ê | CoinGlass
-[2024-12-23 08:38:51,406] INFO: ×¥È¡½á¹û: ÈÕÆÚ=2024/12/23, AHR999=1.36445367
-[2024-12-23 08:39:24,769] INFO: Æô¶¯ Selenium for Edge...
+[2024-12-23 08:38:47,961] INFO: Driver [C:\Users\\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
+[2024-12-23 08:38:48,986] INFO: æ‰“å¼€é¡µé¢...
+[2024-12-23 08:38:51,367] INFO: é¡µé¢æ ‡é¢˜: æ¯”ç‰¹å¸ Ahr999 æŒ‡æ ‡ | CoinGlass
+[2024-12-23 08:38:51,406] INFO: æŠ“å–ç»“æœ: æ—¥æœŸ=2024/12/23, AHR999=1.36445367
+[2024-12-23 08:39:24,769] INFO: å¯åŠ¨ Selenium for Edge...
 [2024-12-23 08:39:24,769] INFO: ====== WebDriver manager ======
 [2024-12-23 08:39:27,319] INFO: Get LATEST edgedriver version for Edge 131.0.2903
 [2024-12-23 08:39:27,530] INFO: Get LATEST edgedriver version for Edge 131.0.2903
-[2024-12-23 08:39:27,739] INFO: Driver [C:\Users\³ÂÁÁ\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
-[2024-12-23 08:39:28,770] INFO: ´ò¿ªÒ³Ãæ...
-[2024-12-23 08:39:30,786] INFO: Ò³Ãæ±êÌâ: ±ÈÌØ±Ò Ahr999 Ö¸±ê | CoinGlass
-[2024-12-23 08:39:30,828] INFO: ×¥È¡½á¹û: ÈÕÆÚ=2024/12/23, AHR999=1.36445367
+[2024-12-23 08:39:27,739] INFO: Driver [C:\Users\\.wdm\drivers\edgedriver\win64\131.0.2903.112\msedgedriver.exe] found in cache
+[2024-12-23 08:39:28,770] INFO: æ‰“å¼€é¡µé¢...
+[2024-12-23 08:39:30,786] INFO: é¡µé¢æ ‡é¢˜: æ¯”ç‰¹å¸ Ahr999 æŒ‡æ ‡ | CoinGlass
+[2024-12-23 08:39:30,828] INFO: æŠ“å–ç»“æœ: æ—¥æœŸ=2024/12/23, AHR999=1.36445367
